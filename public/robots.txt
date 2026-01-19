@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daltotest-2py9.vercel.app/sitemap.xml
