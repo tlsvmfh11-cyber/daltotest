@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://daltotest-2py9.vercel.app/sitemap.xml
+Sitemap: https://daltotest.vercel.app/sitemap.xml
